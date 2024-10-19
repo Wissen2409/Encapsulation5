@@ -9,10 +9,21 @@
 
 
 Personel p = new Personel();
-p.Id=4;
+
+try
+{
+    p.Id = 4;
+}
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
 
 // Name isimli prop, set bloğuna private keyword'ü yada tamamen silebilirsiniz bu durumda dışarıdan erişilmeyen ve set edilemeyen bir prop yazmış olursunuz
 // bu durumda field'a değer nasıl verilir ? 
 
-// 
-p.Name="Selçuk";
+// böyle durumlarda fieldlar genelde dış dünyadan değer almazlar, ya bir hesapma sonucu değer ortaya çıkar
+// yada sınıf içerisinde field yazılırken değer direk elle, hard coded şekilde verilir.!!
+//p.Name="Selçuk";
+

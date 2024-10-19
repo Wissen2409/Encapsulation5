@@ -1,0 +1,15 @@
+/Users/emrahelis/Encapsulation5/bin/Debug/net8.0/Encapsulation5
+/Users/emrahelis/Encapsulation5/bin/Debug/net8.0/Encapsulation5.deps.json
+/Users/emrahelis/Encapsulation5/bin/Debug/net8.0/Encapsulation5.runtimeconfig.json
+/Users/emrahelis/Encapsulation5/bin/Debug/net8.0/Encapsulation5.dll
+/Users/emrahelis/Encapsulation5/bin/Debug/net8.0/Encapsulation5.pdb
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.AssemblyInfoInputs.cache
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.AssemblyInfo.cs
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.sourcelink.json
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.dll
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/refint/Encapsulation5.dll
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.pdb
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/Encapsulation5.genruntimeconfig.cache
+/Users/emrahelis/Encapsulation5/obj/Debug/net8.0/ref/Encapsulation5.dll
